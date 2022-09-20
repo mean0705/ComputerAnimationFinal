@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1965732fdfa3e3c42a47569ce274ec06, type: 3}
+  m_Name: params_SocialForceCrossing
+  m_EditorClassIdentifier: 
+  le: 5
+  R: 0.36
+  veh_A: 200
+  veh_b: 2.6
+  des_sigma: 1
+  des_k: 300
+  mu_gap: 4
+  sigma_gap: 2.5
+  mu_vd: 1.4
+  sigma_vd: 0.2
+  thr_gap: 0
+  k_des: -1
